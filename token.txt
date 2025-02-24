@@ -1,0 +1,7 @@
+Place ur bearer token in here!
+how to get bearer token? 
+1. F12 or inspect element
+2. Go Application
+3. Local Storage
+4. httpsL//app.nodego.ai
+5. accessToken ---------- Ey************
